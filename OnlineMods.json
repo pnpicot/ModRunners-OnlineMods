@@ -1,0 +1,10 @@
+{
+    "Serial": 1,
+    "Mods": [
+        {
+            "Id": "Speedometer",
+            "Version": "1.0.0",
+            "Hash": "e82b3acd8004339dd6cd06be21217b40c86283ef3e46f34ffac5623db75fccc7"
+        }
+    ]
+}

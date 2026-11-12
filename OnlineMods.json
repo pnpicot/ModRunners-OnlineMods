@@ -1,5 +1,5 @@
 {
-    "Serial": 3,
+    "Serial": 4,
     "Mods": [
         {
             "Id": "Speedometer",
@@ -15,6 +15,12 @@
             "Id": "HelloMod",
             "Version": "1.0.0",
             "Hash": "bfcb5b744e334ca75bc21d66a06f2f0b2fd7e9fd1a34bb9a895251d35850b4cf"
+        },
+        {
+            "Id": "WildItems",
+            "Version": "1.0.0",
+            "Hash": "b8156705944b3f8e14d8f28caab15a33d8ec939090bdd45976371b56e8e19d0a",
+            "Scope": "Modded"
         }
     ]
 }

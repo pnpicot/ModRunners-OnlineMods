@@ -1,5 +1,5 @@
 {
-    "Serial": 6,
+    "Serial": 7,
     "Mods": [
         {
             "Id": "Speedometer",
@@ -31,8 +31,7 @@
         {
             "Id": "Essentials",
             "Version": "1.0.0",
-            "Hash": "731ab2764d4c12f363fbf9b48700a4637618d8692409ea3258c43781084ab2e7",
-            "Scope": "Modded"
+            "Hash": "731ab2764d4c12f363fbf9b48700a4637618d8692409ea3258c43781084ab2e7"
         }
     ]
 }

@@ -1,16 +1,6 @@
 {
-    "Serial": 13,
+    "Serial": 14,
     "Mods": [
-        {
-            "Id": "Speedometer",
-            "Version": "1.0.0",
-            "Hash": "e82b3acd8004339dd6cd06be21217b40c86283ef3e46f34ffac5623db75fccc7"
-        },
-        {
-            "Id": "Speedometer",
-            "Version": "1.0.0",
-            "Hash": "ca21d8ac668c046c0f7f3648d8ef49f67119325715dedec467fb70371dec355b"
-        },
         {
             "Id": "WildItems",
             "Version": "1.0.0",

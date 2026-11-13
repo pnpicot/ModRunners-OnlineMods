@@ -1,5 +1,5 @@
 {
-    "Serial": 11,
+    "Serial": 12,
     "Mods": [
         {
             "Id": "Speedometer",
@@ -32,6 +32,11 @@
             "Version": "1.0.1",
             "Hash": "daa1c2a52cb8fdf273164d156455e949f25fc65339cbb4043efebc92d4a8a372",
             "Scope": "Modded"
+        },
+        {
+            "Id": "LaunchSettings",
+            "Version": "1.0.0",
+            "Hash": "de2651c30d5221f821fb2fad40a1a0bd3096b5c1631149b390e5af1e62ce82d7"
         }
     ]
 }

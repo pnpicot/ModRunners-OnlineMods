@@ -1,5 +1,5 @@
 {
-    "Serial": 10,
+    "Serial": 11,
     "Mods": [
         {
             "Id": "Speedometer",
@@ -26,6 +26,12 @@
             "Id": "Essentials",
             "Version": "1.1.0",
             "Hash": "bfff4e5cd3b8b25d736e3b873e0f7cc6a42878e9d32cfdbf8861f7912cd317b4"
+        },
+        {
+            "Id": "MorePlayers",
+            "Version": "1.0.1",
+            "Hash": "daa1c2a52cb8fdf273164d156455e949f25fc65339cbb4043efebc92d4a8a372",
+            "Scope": "Modded"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "Serial": 25,
+    "Serial": 26,
     "Mods": [
         {
             "Id": "Essentials",
@@ -69,6 +69,12 @@
             "Id": "MorePlayers",
             "Version": "1.0.4",
             "Hash": "fad479b86aff6640aa960cab1073be157af03ee4002268bb5d9b40e43fa4a1bb",
+            "Scope": "Modded"
+        },
+        {
+            "Id": "MovementPlayground",
+            "Version": "1.1.1",
+            "Hash": "55cdecd9be2ea35d42545a67b29f1cac11545e23dff6efb9c9b7ad16a487ce72",
             "Scope": "Modded"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "Serial": 21,
+    "Serial": 22,
     "Mods": [
         {
             "Id": "Essentials",
@@ -48,6 +48,12 @@
             "Id": "LaunchSettings",
             "Version": "1.0.2",
             "Hash": "cfdb32675adfca2b31fa94511b1e5f35f2f69c295259cc568f1898e5a3434f22"
+        },
+        {
+            "Id": "MorePlayers",
+            "Version": "1.0.3",
+            "Hash": "e54df632ae3eabb34bd0500d9e83cb3c8b6e73f17ffc8da673012207dbce0571",
+            "Scope": "Modded"
         }
     ]
 }

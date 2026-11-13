@@ -1,5 +1,5 @@
 {
-    "Serial": 19,
+    "Serial": 20,
     "Mods": [
         {
             "Id": "Essentials",
@@ -38,6 +38,11 @@
             "Version": "1.1.0",
             "Hash": "ee583057372bb2c4005d78a788abf92e4e7e0a1e591a621d103a8e0119aa1ea2",
             "Scope": "Modded"
+        },
+        {
+            "Id": "Essentials",
+            "Version": "1.1.2",
+            "Hash": "57ffa3b20b1156c10e2f91bfa39fdfbe9180c92d7c104f1588f20361b6858fe5"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "Serial": 30,
+    "Serial": 31,
     "Mods": [
         {
             "Id": "Essentials",
@@ -97,6 +97,12 @@
             "Id": "LaunchSettings",
             "Version": "1.0.3",
             "Hash": "dbf778188bcd1e17878e1d023ec86088ab334b7616ab571995f4c4b6321ac5f8"
+        },
+        {
+            "Id": "DeathRunners",
+            "Version": "1.0.0",
+            "Hash": "21738510c4bc435c9b0467273dc2d4bfe67a8fea68cfc6122cef0b74eb546a28",
+            "Scope": "Modded"
         }
     ]
 }

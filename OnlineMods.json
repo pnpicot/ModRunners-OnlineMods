@@ -1,5 +1,5 @@
 {
-    "Serial": 36,
+    "Serial": 37,
     "Mods": [
         {
             "Id": "Essentials",
@@ -128,6 +128,11 @@
             "Id": "LobbyNotifier",
             "Version": "1.0.0",
             "Hash": "f17b48d4b0877e33bbd6b9da68c64847cadcfc9d3c3b3c9d63582dabb6c41678"
+        },
+        {
+            "Id": "SpeedVFX",
+            "Version": "1.0.0",
+            "Hash": "f6f1878911557fff5dad023ec0fd7ae8cff83edc8d0698e8407603288bfee235"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "Serial": 35,
+    "Serial": 36,
     "Mods": [
         {
             "Id": "Essentials",
@@ -123,6 +123,11 @@
             "Id": "TextPopupsLib",
             "Version": "1.0.0",
             "Hash": "ded0ba950a8c514936a31754ec52dce01f819c92f4eff3014c79a8aa1293b88c"
+        },
+        {
+            "Id": "LobbyNotifier",
+            "Version": "1.0.0",
+            "Hash": "f17b48d4b0877e33bbd6b9da68c64847cadcfc9d3c3b3c9d63582dabb6c41678"
         }
     ]
 }

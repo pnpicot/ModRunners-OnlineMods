@@ -1,5 +1,5 @@
 {
-    "Serial": 38,
+    "Serial": 39,
     "Mods": [
         {
             "Id": "Essentials",
@@ -138,6 +138,11 @@
             "Id": "SoundTweaks",
             "Version": "1.0.0",
             "Hash": "492bf0e15cd7f8e75aaf5f4abbdc30cb6b119375f13562b6862c52d1e5572f43"
+        },
+        {
+            "Id": "Hitboxes",
+            "Version": "1.1.0",
+            "Hash": "3447c20e2a6e39dbef93e4636cd88029c79ebae9ef864526d9afbdd7b2df13cb"
         }
     ]
 }

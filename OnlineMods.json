@@ -1,5 +1,5 @@
 {
-    "Serial": 47,
+    "Serial": 48,
     "Mods": [
         {
             "Id": "Essentials",
@@ -184,6 +184,12 @@
             "Id": "TextPopupsLib",
             "Version": "1.0.0",
             "Hash": "ea176129c61dfeb028d622f680e26f6caab9b9bc4c2eb8fd40866c5a75e821bf"
+        },
+        {
+            "Id": "MorePlayers",
+            "Version": "1.1.0",
+            "Hash": "e6f4a7097b7e1f00c931c69e2f0f0d1238874c9e3a17f388f4fa07c840f90475",
+            "Scope": "Modded"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "Serial": 44,
+    "Serial": 45,
     "Mods": [
         {
             "Id": "Essentials",
@@ -169,6 +169,11 @@
             "Id": "SoundTweaks",
             "Version": "1.0.0",
             "Hash": "5ca9187a8ad533d33c0f7d457d4c8a9ea2df3d6e5a12e7f8332e72069df0d7e9"
+        },
+        {
+            "Id": "SpeedVFX",
+            "Version": "1.0.0",
+            "Hash": "c02cc0159c17280ac849b9ea0116540540e41b6d2c6dd31201e69c330f5c5cb8"
         }
     ]
 }

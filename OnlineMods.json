@@ -1,5 +1,5 @@
 {
-    "Serial": 43,
+    "Serial": 44,
     "Mods": [
         {
             "Id": "Essentials",
@@ -164,6 +164,11 @@
             "Id": "LobbyNotifier",
             "Version": "1.0.0",
             "Hash": "0f17d8c5e67b052477172650a8b8492d5d70015507a9d6c492b61211b806df96"
+        },
+        {
+            "Id": "SoundTweaks",
+            "Version": "1.0.0",
+            "Hash": "5ca9187a8ad533d33c0f7d457d4c8a9ea2df3d6e5a12e7f8332e72069df0d7e9"
         }
     ]
 }

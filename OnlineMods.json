@@ -1,5 +1,5 @@
 {
-    "Serial": 39,
+    "Serial": 40,
     "Mods": [
         {
             "Id": "Essentials",
@@ -143,6 +143,12 @@
             "Id": "Hitboxes",
             "Version": "1.1.0",
             "Hash": "3447c20e2a6e39dbef93e4636cd88029c79ebae9ef864526d9afbdd7b2df13cb"
+        },
+        {
+            "Id": "Portals",
+            "Version": "1.0.0",
+            "Hash": "4cc0771491ebd4185b71331fabdd6a4c05f0656506b8c0090e4395720d536e79",
+            "Scope": "Modded"
         }
     ]
 }

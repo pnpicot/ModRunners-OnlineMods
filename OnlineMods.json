@@ -1,5 +1,5 @@
 {
-    "Serial": 46,
+    "Serial": 47,
     "Mods": [
         {
             "Id": "Essentials",
@@ -179,6 +179,11 @@
             "Id": "TechsLib",
             "Version": "1.0.0",
             "Hash": "a5dd856779a4beb84dedc0eaea8651fe9ac0daa0e07bc2dbd0363a307b45a5b7"
+        },
+        {
+            "Id": "TextPopupsLib",
+            "Version": "1.0.0",
+            "Hash": "ea176129c61dfeb028d622f680e26f6caab9b9bc4c2eb8fd40866c5a75e821bf"
         }
     ]
 }
